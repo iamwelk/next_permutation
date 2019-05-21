@@ -1,0 +1,12 @@
+{
+  "name": "next_permutation",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["next_permutation"],
+  "author": "louwk",
+  "license": "ISC"
+}
