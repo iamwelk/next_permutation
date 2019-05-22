@@ -8,6 +8,14 @@ describe('测试列表', () => {
     expect(NextPermutation('123', 2)).toBe('213')
   })
 
+  test('next_permutation of "123" by 4 steps is 312', () => {
+    expect(NextPermutation('123', 4)).toBe('312')
+  })
+
+  test('next_permutation of "123" by 5 steps is 321', () => {
+    expect(NextPermutation('123', 5)).toBe('321')
+  })
+
   test('next_permutation of "123" by 10 steps is 321', () => {
     expect(NextPermutation('123', 10)).toBe('321')
   })
