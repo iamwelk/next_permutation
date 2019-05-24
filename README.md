@@ -13,3 +13,6 @@ let startStr = '123'
 let res = NextPermutation(startStr, 1)
 console.log(res) // '132' 
 ```
+
+## 建议
+欢迎大家提供意见和建议，本人一定会积极响应，谢谢
